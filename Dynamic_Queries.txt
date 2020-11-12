@@ -1,0 +1,3 @@
+insert INTO Table1(Mail, Meet, Location, Device, Timestamp, Latitude, longitude, Admin , JorL) Values ('blare@gmail.com', 'https://meet.google.com/wjw-gkve-abc', 'Moga, Punjab', 'iOS', datetime('now', 'localtime'),30.816460,75.171707, 0, 1);
+insert INTO Table1(Mail, Meet, Location, Device, Timestamp, Latitude, longitude, Admin , JorL) Values ('alice@gmail.com', 'https://meet.google.com/wjw-gkve-abc', 'Batala, Punjab', 'Laptop', datetime('now', 'localtime'),31.823462,75.205063, 0, 1);
+insert INTO Table1(Mail, Meet, Location, Device, Timestamp, Latitude, longitude, Admin , JorL) Values ('devansh@gmail.com', 'https://meet.google.com/wjw-gkve-abc', 'Shimoga, Karnataka', 'iOS', datetime('now', 'localtime'),13.929930,75.568100, 0, 1);

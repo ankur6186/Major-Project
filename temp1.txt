@@ -1,0 +1,171 @@
+GIGABYTE
+63 devices
+GIONEE
+85 devices
+GOOGLE
+14 devices
+HAIER
+59 devices
+HONOR
+99 devices
+HP
+41 devices
+HTC
+269 devices
+HUAWEI
+347 devices
+I-MATE
+34 devices
+I-MOBILE
+37 devices
+ICEMOBILE
+61 devices
+INFINIX
+52 devices
+INNOSTREAM
+18 devices
+INQ
+5 devices
+INTEX
+15 devices
+JOLLA
+3 devices
+KARBONN
+60 devices
+KYOCERA
+24 devices
+LAVA
+118 devices
+LEECO
+9 devices
+LENOVO
+209 devices
+LG
+662 devices
+MAXON
+31 devices
+MAXWEST
+41 devices
+MEIZU
+61 devices
+MICROMAX
+285 devices
+MICROSOFT
+31 devices
+MITAC
+12 devices
+MITSUBISHI
+25 devices
+MODU
+8 devices
+MOTOROLA
+506 devices
+MWG
+5 devices
+NEC
+73 devices
+NEONODE
+3 devices
+NIU
+30 devices
+NOKIA
+509 devices
+NVIDIA
+3 devices
+O2
+45 devices
+ONEPLUS
+26 devices
+OPPO
+150 devices
+ORANGE
+19 devices
+PALM
+17 devices
+PANASONIC
+123 devices
+PANTECH
+72 devices
+PARLA
+10 devices
+PHILIPS
+227 devices
+PLUM
+107 devices
+POSH
+30 devices
+PRESTIGIO
+56 devices
+QMOBILE
+90 devices
+QTEK
+21 devices
+RAZER
+2 devices
+REALME
+62 devices
+SAGEM
+120 devices
+SAMSUNG
+1262 devices
+SENDO
+19 devices
+SEWON
+25 devices
+SHARP
+60 devices
+SIEMENS
+94 devices
+SONIM
+14 devices
+SONY
+146 devices
+SONY ERICSSON
+188 devices
+SPICE
+120 devices
+T-MOBILE
+58 devices
+TCL
+10 devices
+TECNO
+56 devices
+TEL.ME.
+7 devices
+TELIT
+30 devices
+THURAYA
+1 devices
+TOSHIBA
+35 devices
+ULEFONE
+33 devices
+UNNECTO
+30 devices
+VERTU
+17 devices
+VERYKOOL
+139 devices
+VIVO
+171 devices
+VK MOBILE
+31 devices
+VODAFONE
+87 devices
+WIKO
+75 devices
+WND
+5 devices
+XCUTE
+4 devices
+XIAOMI
+173 devices
+XOLO
+81 devices
+YEZZ
+96 devices
+YOTA
+3 devices
+YU
+13 devices
+ZTE devices
